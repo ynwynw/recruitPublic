@@ -104,6 +104,10 @@ HR角色包含以下功能：
 4. vscode或idea打开recruit-web项目，
 5. 在编译器中打开terminal，执行npm install 依赖下载完成后执行 npm run dev,执行成功后会显示访问地址
 
+**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
+
+**接毕业设计和论文**
+
 
 
 
